@@ -5,3 +5,4 @@ curved_scores = scores + 5
 
 print("Original scores shape:", scores.shape)
 print("Curved scores:", curved_scores)
+
